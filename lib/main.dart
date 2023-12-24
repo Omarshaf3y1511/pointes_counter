@@ -55,6 +55,7 @@ class _PointerCounterState extends State<PointerCounter> {
                       ),
                       onPressed: () {
                         setState(() {
+                          //to increase pointes
                           teamAPoints++;
                         });
                       },
