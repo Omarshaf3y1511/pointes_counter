@@ -1,6 +1,6 @@
 # pointes_counter
 
-A new Flutter project.
+My first application that counts points for teams A and B.  
 
 ## Getting Started
 
